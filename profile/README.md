@@ -1,5 +1,5 @@
 # 🌉 Bitterbridge 🌉
-( 🌀 [ndouglas](https://github.com/ndouglas/) | 🌉 [bitterbridge](https://github.com/bitterbridge/) | ️‍🔥 [hellholt](https://github.com/hellholt/) | 🦷 [goldentooth](https://github.com/goldentooth/) )
+( <span style="display:inline-block; min-width: 2em;">🌀</span>[ndouglas](https://github.com/ndouglas/) | <span style="display:inline-block; min-width: 2em;">🌉</span>[bitterbridge](https://github.com/bitterbridge/) | <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[hellholt](https://github.com/hellholt/) | <span style="display:inline-block; min-width: 2em;">🦷</span>[goldentooth](https://github.com/goldentooth/) )
 
 Bitterbridge is a place for projects, tools, and experiments, things that I've done that I feel are at least somewhat worth showing off, as opposed to the countless forks, sketches, etc that I engage with on a regular basis and should probably never see the light of day.
 
