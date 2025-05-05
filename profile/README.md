@@ -9,3 +9,4 @@ Bitterbridge is a place for projects, tools, and experiments, things that I've d
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
+- ☕️ [distillation](https://github.com/bitterbridge/distillation): A PoC to learn how neural network distillation works.
