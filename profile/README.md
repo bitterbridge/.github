@@ -8,4 +8,4 @@ Bitterbridge is a place for projects, tools, and experiments, things that I've d
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
-- ❓ [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
+- 📈 [linear-regression](https://github.com/bitterbridge/linear-regression): Simple linear regression implementation in Rust.
