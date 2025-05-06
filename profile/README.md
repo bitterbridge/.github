@@ -14,4 +14,4 @@ Bitterbridge is a place for projects, tools, and experiments, things that I've d
 
 ---
 
-< @ndouglas
+< [@ndouglas](https://github.com/ndouglas/)
