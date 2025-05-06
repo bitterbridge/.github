@@ -12,6 +12,9 @@ Bitterbridge is a place for projects, tools, and experiments, things that I've d
 - ☕️ [distillation](https://github.com/bitterbridge/distillation): A PoC to learn how neural network distillation works.
 
 
+## Permissions
+I'm releasing everything I create here under an [Unlicense](https://choosealicense.com/licenses/unlicense/) in the hopes that it proves interesting or useful to other engineers.
+
 ---
 
 < [@ndouglas](https://github.com/ndouglas/)
