@@ -4,8 +4,8 @@
 Bitterbridge is a place for projects, tools, and experiments, things that I've done that I feel are at least somewhat worth showing off, as opposed to the countless forks, sketches, etc that should probably never see the light of day.
 
 ## Repositories
-- ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 📚 [books](https://github.com/bitterbridge/books): Books about professional development and similar topics.
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
 - 🧊 [unity-hashing-grid](https://github.com/bitterbridge/unity-hashing-grid): Hashing Grid implementation in Unity
