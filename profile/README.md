@@ -20,10 +20,10 @@ Bitterbridge is a place for projects, tools, and experiments, things that I've d
 
 ## 📦 Repositories
 
-- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
-- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): P5.js Sketch Server - Static file server for hosting p5.js sketches on Ceph storage
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
+- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): P5.js Sketch Server - Static file server for hosting p5.js sketches on Ceph storage
+- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 🗣️ [whispers](https://github.com/bitterbridge/whispers): Whispers is a self-organizing, belief-driven mesh where nodes propose, verify, and evolve solutions through dynamic, decentralized consensus.
