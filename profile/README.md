@@ -20,8 +20,8 @@ Bitterbridge is a place for projects, tools, and experiments, things that I've d
 
 ## 📦 Repositories
 
-- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): P5.js Sketch Server - Static file server for hosting p5.js sketches on Ceph storage
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): P5.js Sketch Server - Static file server for hosting p5.js sketches on Ceph storage
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 🕴️ [resume](https://github.com/bitterbridge/resume): My résumé, written in LaTeX, with continuous delivery or something.
