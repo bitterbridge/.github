@@ -1,20 +1,7 @@
 # 🌉 Bitterbridge
 {{ webring }}
 
-Bitterbridge is a place for projects, tools, and experiments, things that I've done that I feel are at least somewhat worth showing off, as opposed to the countless forks, sketches, etc that should probably never see the light of day.
-
----
-
-## 🎨 My Palette
-
-| **Category**                    | **What’s Here**                                                             |
-|---------------------------------|-----------------------------------------------------------------------------|
-| 💻 **IaC Foundations**          | Terraform modules, patterns, and provider experiments                       |
-| 🔁 **CI/CD Engineering**        | GitHub Actions for repeatable workflows, résumé publishing, repo wiring     |
-| 🧪 **ML Explorations**          | Research-inspired toy implementations (distillation, regressions)           |
-| 🧠 **Language Runtimes**        | Rust-based VMs, interpreters, and computational models                      |
-| 🕹 **Game/Spatial Utils**       | Unity-compatible spatial indexing and grid-based systems                    |
-| 🌐 **Consensus Protocols**      | Novel experiments with decentralized state & belief propagation             |
+Bitterbridge is a laboratory for experiments, sketches, and wild exploration. Half-baked ideas, unfinished prototypes, weird tangents, and things that might not work at all. If it compiles, it ships. If it doesn't, it might still ship.
 
 ---
 
