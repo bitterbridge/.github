@@ -7,10 +7,11 @@ Bitterbridge is a laboratory for experiments, sketches, and wild exploration. Ha
 
 ## 📦 Repositories
 
-- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
+- ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
+- 🕵️‍ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
-- ❓ [rills](https://github.com/bitterbridge/rills): A little experiment with LLMs playing _Mafia_, basically.
+- 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
 - ⚙️ [github-actions](https://github.com/bitterbridge/github-actions): GHA reusable Actions and Workflows for use in my various repositories
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 
