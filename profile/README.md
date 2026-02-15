@@ -7,8 +7,8 @@ Bitterbridge is a laboratory for experiments, sketches, and wild exploration. Ha
 
 ## 📦 Repositories
 
-- ❓ [harlaw](https://github.com/bitterbridge/harlaw): An app that writes apps that write books.
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- ❓ [harlaw](https://github.com/bitterbridge/harlaw): An app that writes apps that write books.
 - ❓ [crows-nest](https://github.com/bitterbridge/crows-nest): A thunk-based agentic system.
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
