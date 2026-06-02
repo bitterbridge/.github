@@ -7,8 +7,8 @@ Bitterbridge is a laboratory for experiments, sketches, and wild exploration. Ha
 
 ## 📦 Repositories
 
-- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - 📉 [p5js-sketches](https://github.com/bitterbridge/p5js-sketches): p5.js sketches for fun and to show off silly ideas
 - ❓ [harlaw](https://github.com/bitterbridge/harlaw): An app that writes apps that write books.
