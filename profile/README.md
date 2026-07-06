@@ -7,8 +7,8 @@ Bitterbridge is a laboratory for experiments, sketches, and wild exploration. Ha
 
 ## 📦 Repositories
 
-- ❓ [goldengrove](https://github.com/bitterbridge/goldengrove): A tool for creating and exploring fantastic planets.
 - 👋 [.github](https://github.com/bitterbridge/.github): Special Repository
+- ❓ [goldengrove](https://github.com/bitterbridge/goldengrove): A tool for creating and exploring fantastic planets.
 - 🚜 [terraform](https://github.com/bitterbridge/terraform): General Terraform Infrastructure-as-Code for Bitterbridge
 - ❓ [snakewood](https://github.com/bitterbridge/snakewood): An experimental MUD
 - 🧩 [terraform-modules](https://github.com/bitterbridge/terraform-modules): Reusable Terraform modules for various projects
